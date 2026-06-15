@@ -34,6 +34,7 @@ export default function Home() {
           muted 
           loop 
           playsInline 
+          poster="/images/crocodile/Afrikanos_Crocodile_Encounter.webp"
           className="absolute inset-0 w-full h-full object-cover"
         >
           <source src="https://afrikanos.co.za/wp-content/uploads/2022/10/Afrikanos-Web-Site-Book-Now-Landing-Page-Video-Section-3-Benefits-Video-1.mp4" type="video/mp4" />
