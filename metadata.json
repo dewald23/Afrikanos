@@ -1,0 +1,6 @@
+{
+  "name": "Afrikanos",
+  "description": "The premier crocodile cage diving, tours, and culinary experience in Gansbaai, South Africa, styled with premium Wilde Hond brand. Live the adventure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
